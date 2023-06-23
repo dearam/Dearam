@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Emberjs,Vuejs,Opencv,machine learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dearam.vercel.app/](https://portfolio-dearam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-dearam.vercel.app/](https://dearam.netlify.app/)
 
 - 💬 Ask me about **React,Angular,python and Java**
 
